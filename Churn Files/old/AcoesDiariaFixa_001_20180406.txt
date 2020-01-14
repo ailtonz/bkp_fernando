@@ -1,0 +1,6 @@
+  Cod.   Eventos                 Dias        Qtde              Valor            Data Processamento 
+  001    TELE AVISO                15            292               87.448,75    2018-04-06 PJ
+  002    TELE AVISO                25          2.145              426.289,12    2018-04-06 PJ
+  003    DESLIGUE PARCIAL          34             93               19.117,45    2018-04-06 PJ
+  006    RELIGUE                    0            591               84.417,12    2018-04-06 PJ
+  008    TELE AVISO                45             35               20.503,14    2018-04-06 PJ

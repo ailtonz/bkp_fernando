@@ -1,0 +1,285 @@
+{
+  "textAngle": 0.0,
+  "orientation": "NotDetected",
+  "language": "ko",
+  "regions": [
+    {
+      "boundingBox": "30,7,59,89",
+      "lines": [
+        {
+          "boundingBox": "30,7,57,9",
+          "words": [
+            {
+              "boundingBox": "30,7,57,9",
+              "text": "6400010651"
+            }
+          ]
+        },
+        {
+          "boundingBox": "30,27,57,9",
+          "words": [
+            {
+              "boundingBox": "30,27,57,9",
+              "text": "2534604641"
+            }
+          ]
+        },
+        {
+          "boundingBox": "30,47,57,9",
+          "words": [
+            {
+              "boundingBox": "30,47,57,9",
+              "text": "6400011241"
+            }
+          ]
+        },
+        {
+          "boundingBox": "30,67,59,9",
+          "words": [
+            {
+              "boundingBox": "30,67,59,9",
+              "text": "6400011236"
+            }
+          ]
+        },
+        {
+          "boundingBox": "30,87,57,9",
+          "words": [
+            {
+              "boundingBox": "30,87,57,9",
+              "text": "6400011231"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "152,7,57,89",
+      "lines": [
+        {
+          "boundingBox": "152,7,57,9",
+          "words": [
+            {
+              "boundingBox": "152,7,57,9",
+              "text": "13/11/2017"
+            }
+          ]
+        },
+        {
+          "boundingBox": "152,27,57,9",
+          "words": [
+            {
+              "boundingBox": "152,27,57,9",
+              "text": "13/11/2017"
+            }
+          ]
+        },
+        {
+          "boundingBox": "152,47,57,9",
+          "words": [
+            {
+              "boundingBox": "152,47,57,9",
+              "text": "13/11/2017"
+            }
+          ]
+        },
+        {
+          "boundingBox": "152,67,57,9",
+          "words": [
+            {
+              "boundingBox": "152,67,57,9",
+              "text": "13/11/2017"
+            }
+          ]
+        },
+        {
+          "boundingBox": "152,87,57,9",
+          "words": [
+            {
+              "boundingBox": "152,87,57,9",
+              "text": "13/11/2017"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "258,7,49,90",
+      "lines": [
+        {
+          "boundingBox": "258,7,43,10",
+          "words": [
+            {
+              "boundingBox": "258,7,13,10",
+              "text": "R$"
+            },
+            {
+              "boundingBox": "275,7,26,10",
+              "text": "34.02"
+            }
+          ]
+        },
+        {
+          "boundingBox": "258,27,49,10",
+          "words": [
+            {
+              "boundingBox": "258,27,13,10",
+              "text": "R$"
+            },
+            {
+              "boundingBox": "275,27,32,10",
+              "text": "148.23"
+            }
+          ]
+        },
+        {
+          "boundingBox": "258,47,43,10",
+          "words": [
+            {
+              "boundingBox": "258,47,43,10",
+              "text": "R$11.33"
+            }
+          ]
+        },
+        {
+          "boundingBox": "258,67,43,10",
+          "words": [
+            {
+              "boundingBox": "258,67,43,10",
+              "text": "R$10.17"
+            }
+          ]
+        },
+        {
+          "boundingBox": "258,87,43,10",
+          "words": [
+            {
+              "boundingBox": "258,87,43,10",
+              "text": "R$10.32"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "406,7,51,89",
+      "lines": [
+        {
+          "boundingBox": "406,7,51,9",
+          "words": [
+            {
+              "boundingBox": "406,7,51,9",
+              "text": "DINHEIRO"
+            }
+          ]
+        },
+        {
+          "boundingBox": "406,27,51,9",
+          "words": [
+            {
+              "boundingBox": "406,27,51,9",
+              "text": "DINHEIRO"
+            }
+          ]
+        },
+        {
+          "boundingBox": "406,47,51,9",
+          "words": [
+            {
+              "boundingBox": "406,47,51,9",
+              "text": "DINHEIRO"
+            }
+          ]
+        },
+        {
+          "boundingBox": "406,67,51,9",
+          "words": [
+            {
+              "boundingBox": "406,67,51,9",
+              "text": "DINHEIRO"
+            }
+          ]
+        },
+        {
+          "boundingBox": "406,87,51,9",
+          "words": [
+            {
+              "boundingBox": "406,87,51,9",
+              "text": "DINHEIRO"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "677,7,57,89",
+      "lines": [
+        {
+          "boundingBox": "677,7,57,9",
+          "words": [
+            {
+              "boundingBox": "677,7,44,9",
+              "text": "Febraban"
+            },
+            {
+              "boundingBox": "725,7,9,9",
+              "text": "IN"
+            }
+          ]
+        },
+        {
+          "boundingBox": "677,27,57,9",
+          "words": [
+            {
+              "boundingBox": "677,27,44,9",
+              "text": "Febraban"
+            },
+            {
+              "boundingBox": "725,27,9,9",
+              "text": "IN"
+            }
+          ]
+        },
+        {
+          "boundingBox": "677,47,57,9",
+          "words": [
+            {
+              "boundingBox": "677,47,44,9",
+              "text": "Febraban"
+            },
+            {
+              "boundingBox": "725,47,9,9",
+              "text": "IN"
+            }
+          ]
+        },
+        {
+          "boundingBox": "677,67,57,9",
+          "words": [
+            {
+              "boundingBox": "677,67,44,9",
+              "text": "Febraban"
+            },
+            {
+              "boundingBox": "725,67,9,9",
+              "text": "IN"
+            }
+          ]
+        },
+        {
+          "boundingBox": "677,87,57,9",
+          "words": [
+            {
+              "boundingBox": "677,87,44,9",
+              "text": "Febraban"
+            },
+            {
+              "boundingBox": "725,87,9,9",
+              "text": "IN"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

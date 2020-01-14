@@ -1,0 +1,7 @@
+CHURN_FTP_AUTO@ftp.telefonicabpo.com
+port 990
+host name: ftp.telefonica.bpo
+user: 
+CHURN_FTP_AUTO 
+sW@tUwup!u+eQeP3 
+ 

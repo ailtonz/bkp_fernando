@@ -1,0 +1,7 @@
+  Cod.   Eventos                 Dias        Qtde              Valor            Data Processamento 
+  001    TELE AVISO                15             11                4.090,44    2018-3-22 PJ
+  002    TELE AVISO                25            802              159.517,28    2018-3-22 PJ
+  003    DESLIGUE PARCIAL          34            112               24.444,87    2018-3-22 PJ
+  004    DESLIGUE TOTAL            64              1                   97,53    2018-3-22 PJ
+  005    RETIRADA                  95              5                  608,94    2018-3-22 PJ
+  006    RELIGUE                    0            422               69.467,83    2018-3-22 PJ

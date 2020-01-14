@@ -1,0 +1,67 @@
+{
+  "textAngle": 0.0,
+  "orientation": "NotDetected",
+  "language": "ko",
+  "regions": [
+    {
+      "boundingBox": "28,6,59,9",
+      "lines": [
+        {
+          "boundingBox": "28,6,59,9",
+          "words": [
+            {
+              "boundingBox": "28,6,59,9",
+              "text": "6400008872"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "150,6,57,9",
+      "lines": [
+        {
+          "boundingBox": "150,6,57,9",
+          "words": [
+            {
+              "boundingBox": "150,6,57,9",
+              "text": "13/11/2017"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "256,6,43,10",
+      "lines": [
+        {
+          "boundingBox": "256,6,43,10",
+          "words": [
+            {
+              "boundingBox": "256,6,13,10",
+              "text": "R$"
+            },
+            {
+              "boundingBox": "273,6,26,10",
+              "text": "86.34"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "404,6,51,9",
+      "lines": [
+        {
+          "boundingBox": "404,6,51,9",
+          "words": [
+            {
+              "boundingBox": "404,6,51,9",
+              "text": "DINHEIRO"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

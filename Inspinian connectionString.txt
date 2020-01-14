@@ -1,0 +1,1 @@
+    <!--<add name="BPO.Identity" connectionString="Data Source=(LocalDb)\v11.0;AttachDbFilename=|DataDirectory|\aspnet-Inspinia_MVC5_SeedProject-20141215093835.mdf;Initial Catalog=aspnet-Inspinia_MVC5_SeedProject-20141215093835;Integrated Security=True" providerName="System.Data.SqlClient" />-->

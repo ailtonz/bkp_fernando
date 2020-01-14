@@ -1,0 +1,90 @@
+
+;~ 	    Local $ValorSemCifrao = 0
+;~ 		$Valor = _ValidaTexto(283,467,338,480,2)
+;~ 		_ArrayDisplay($ValorSemCifrao)
+
+;~ 		 MsgBox(0,"", $ValorSemCifrao[2])
+
+;~ 		Global $PosYInicialConta = 445
+;~ 		Global $PosYFinalConta = 458
+;~ 		Global $PosYInicialValor = 447
+;~ 		Global $PosYFinalValor = 460
+;~ 		Global $QtdNumIguais = 8
+;~ 		Global $blnContinua = True
+;~ 	    Local $ultimaconta
+;~ 	    Local $conta
+;~ 		Local $iQtdCaracterConta = 0
+;~ 		Local $iQtdCaracterVal = 0
+;~ 		Local $iLinha = 0
+;~ 		Local $ValorOCR
+;~ 		Local $arrayValor
+;~ 		Local $valorConta
+;~ 		Local $contaOCR
+;~ 		Local $ValorContaPlan
+
+;~ 			While $blnContinua = True
+
+;~ 				$contaOCR = _ValidaConta2(51,$PosYInicialConta,124,$PosYFinalConta,2)
+;~ 			    $ValorOCR = _ValidaValor(283,$PosYInicialValor,338,$PosYFinalValor,2)
+;~ 			    $conta = StringReplace($contaOCR," ","")
+;~ 				$ValorContaPlan = StringReplace(StringReplace($aArrayList[$array][3],"R$","")," ","")
+;~ 				Sleep(3000)
+;~ 			   If $conta = "" Then
+;~ 				  $blnContinua = False
+;~ 				  MsgBox(0,"","Conta não encontrada")
+;~ 			   EndIf
+
+;~ 			   If StringReplace($ValorOCR," ","") <> "" Then
+;~ 				   $arrayValor = StringSplit($ValorOCR,"$")
+;~ 				   Sleep(3000)
+;~ 				   $valorConta = StringReplace($arrayValor[2]," ","")
+;~ 			   EndIf
+
+;~ 			   If $conta = $ultimaconta  Then
+;~ 				   $blnContinua = False
+;~ 				   MsgBox(0,"","Conta Igual")
+;~ 			   EndIf
+
+;~ 			   MsgBox(0,"",$valorConta)
+;~ 			   MsgBox(0,"",$ValorContaPlan)
+;~ 			   For $x = 1 To StringLen($aArrayList[$array][2])
+;~ 				  If StringMid($aArrayList[$array][2], $x, 1) =  StringMid($conta, $x, 1)Then
+;~ 					 $iQtdCaracterConta = $iQtdCaracterConta + 1
+;~ 				  EndIf
+;~ 			   Next
+
+;~ 			   For $value = 1 To StringLen($ValorContaPlan)
+;~ 				  If StringMid($ValorContaPlan,$value,1) = StringMid($valorConta, $value, 1) Then
+;~ 					  $iQtdCaracterVal = $iQtdCaracterVal + 1
+;~ 				  EndIf
+;~ 			   Next
+
+;~ 			   $QtdValorIguais = StringLen($ValorContaPlan) - 1
+;~ 			   MsgBox(0,"",$iQtdCaracterVal)
+
+;~ 			   If $iQtdCaracterConta >= $QtdNumIguais And $iQtdCaracterVal >= $QtdValorIguais Then
+;~ 				  $blnContinua = False
+;~ 				  _BotaoVisualizar()
+;~ 				  ExitLoop
+;~ 			   EndIf
+
+;~ 			   if $iLinha < 8 Then ;alterar(*)
+;~ 					 $PosYInicialConta = $PosYInicialConta + 20
+;~ 					 $PosYFinalConta = $PosYFinalConta + 20
+;~ 					 $PosYInicialValor = $PosYInicialValor + 20
+;~ 					 $PosYFinalValor = $PosYFinalValor + 20
+;~ 			   Else
+
+;~ 					 MouseClick()
+
+;~ 			   EndIf
+
+;~ 			   $iLinha = $iLinha + 1
+
+;~ 			WEnd
+
+;~ 	Next
+
+;~ 		 If $blnContinua = True Then
+
+;~ 	   EndIf

@@ -1,0 +1,277 @@
+{
+  "textAngle": 0.0,
+  "orientation": "NotDetected",
+  "language": "ko",
+  "regions": [
+    {
+      "boundingBox": "29,4,59,89",
+      "lines": [
+        {
+          "boundingBox": "29,4,59,9",
+          "words": [
+            {
+              "boundingBox": "29,4,59,9",
+              "text": "6400010650"
+            }
+          ]
+        },
+        {
+          "boundingBox": "29,24,59,9",
+          "words": [
+            {
+              "boundingBox": "29,24,59,9",
+              "text": "3155010B10"
+            }
+          ]
+        },
+        {
+          "boundingBox": "29,44,59,9",
+          "words": [
+            {
+              "boundingBox": "29,44,59,9",
+              "text": "6400011240"
+            }
+          ]
+        },
+        {
+          "boundingBox": "29,64,59,9",
+          "words": [
+            {
+              "boundingBox": "29,64,59,9",
+              "text": "6400011245"
+            }
+          ]
+        },
+        {
+          "boundingBox": "29,84,59,9",
+          "words": [
+            {
+              "boundingBox": "29,84,59,9",
+              "text": "6400011235"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "151,4,57,89",
+      "lines": [
+        {
+          "boundingBox": "151,4,57,9",
+          "words": [
+            {
+              "boundingBox": "151,4,57,9",
+              "text": "13/11i2017"
+            }
+          ]
+        },
+        {
+          "boundingBox": "151,24,57,9",
+          "words": [
+            {
+              "boundingBox": "151,24,57,9",
+              "text": "13/11/2017"
+            }
+          ]
+        },
+        {
+          "boundingBox": "151,44,57,9",
+          "words": [
+            {
+              "boundingBox": "151,44,57,9",
+              "text": "13/11i2017"
+            }
+          ]
+        },
+        {
+          "boundingBox": "151,64,57,9",
+          "words": [
+            {
+              "boundingBox": "151,64,57,9",
+              "text": "13/11/2017"
+            }
+          ]
+        },
+        {
+          "boundingBox": "151,84,57,9",
+          "words": [
+            {
+              "boundingBox": "151,84,57,9",
+              "text": "13/11i2017"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "257,4,43,90",
+      "lines": [
+        {
+          "boundingBox": "257,4,41,10",
+          "words": [
+            {
+              "boundingBox": "257,4,41,10",
+              "text": "R$14.51"
+            }
+          ]
+        },
+        {
+          "boundingBox": "257,24,43,10",
+          "words": [
+            {
+              "boundingBox": "257,24,43,10",
+              "text": "*$85.48"
+            }
+          ]
+        },
+        {
+          "boundingBox": "257,44,43,10",
+          "words": [
+            {
+              "boundingBox": "257,44,43,10",
+              "text": "R$11.33"
+            }
+          ]
+        },
+        {
+          "boundingBox": "257,64,37,10",
+          "words": [
+            {
+              "boundingBox": "257,64,37,10",
+              "text": "*$0.25"
+            }
+          ]
+        },
+        {
+          "boundingBox": "257,84,43,10",
+          "words": [
+            {
+              "boundingBox": "257,84,43,10",
+              "text": "R$10.22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "405,4,51,89",
+      "lines": [
+        {
+          "boundingBox": "405,4,51,9",
+          "words": [
+            {
+              "boundingBox": "405,4,51,9",
+              "text": "DINHE!RO"
+            }
+          ]
+        },
+        {
+          "boundingBox": "405,24,51,9",
+          "words": [
+            {
+              "boundingBox": "405,24,51,9",
+              "text": "???E|R?"
+            }
+          ]
+        },
+        {
+          "boundingBox": "405,44,51,9",
+          "words": [
+            {
+              "boundingBox": "405,44,51,9",
+              "text": "DINHE!RO"
+            }
+          ]
+        },
+        {
+          "boundingBox": "405,64,51,9",
+          "words": [
+            {
+              "boundingBox": "405,64,51,9",
+              "text": "???E|R?"
+            }
+          ]
+        },
+        {
+          "boundingBox": "405,84,51,9",
+          "words": [
+            {
+              "boundingBox": "405,84,51,9",
+              "text": "DINHE!RO"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "676,4,57,89",
+      "lines": [
+        {
+          "boundingBox": "676,4,57,9",
+          "words": [
+            {
+              "boundingBox": "676,4,44,9",
+              "text": "Febraban"
+            },
+            {
+              "boundingBox": "724,4,9,9",
+              "text": "IN"
+            }
+          ]
+        },
+        {
+          "boundingBox": "676,24,57,9",
+          "words": [
+            {
+              "boundingBox": "676,24,44,9",
+              "text": "Febiaban"
+            },
+            {
+              "boundingBox": "724,24,9,9",
+              "text": "IN"
+            }
+          ]
+        },
+        {
+          "boundingBox": "676,44,57,9",
+          "words": [
+            {
+              "boundingBox": "676,44,44,9",
+              "text": "Febraban"
+            },
+            {
+              "boundingBox": "724,44,9,9",
+              "text": "IN"
+            }
+          ]
+        },
+        {
+          "boundingBox": "676,64,57,9",
+          "words": [
+            {
+              "boundingBox": "676,64,44,9",
+              "text": "Febiaban"
+            },
+            {
+              "boundingBox": "724,64,9,9",
+              "text": "IN"
+            }
+          ]
+        },
+        {
+          "boundingBox": "676,84,57,9",
+          "words": [
+            {
+              "boundingBox": "676,84,44,9",
+              "text": "Febraban"
+            },
+            {
+              "boundingBox": "724,84,9,9",
+              "text": "IN"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

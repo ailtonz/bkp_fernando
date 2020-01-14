@@ -1,0 +1,13 @@
+  Cod.   Eventos                 Dias        Qtde              Valor            Data Processamento 
+  002    TELE AVISO                25             12                3.498,17    2018-03-10 
+  003    DESLIGUE PARCIAL          34            230               32.059,49    2018-03-10 
+  004    DESLIGUE TOTAL            64            145               32.489,28    2018-03-10 
+  005    RETIRADA                  95          2.644              377.178,20    2018-03-10 
+  006    RELIGUE                    0          2.163              414.294,69    2018-03-10 
+  009    MALA DIRETA               52             77               15.311,35    2018-03-10 
+  103    TELE AVISO                23              2                  388,96    2018-03-10 
+  104    TELE AVISO                24             75               16.176,81    2018-03-10 
+  105    TELE AVISO                26         12.621            2.237.139,51    2018-03-10 
+  108    TELE AVISO                55             95               15.380,39    2018-03-10 
+  109    TELE AVISO                56          3.717              613.352,06    2018-03-10 
+  110    TELE AVISO                10            193               84.777,69    2018-03-10 

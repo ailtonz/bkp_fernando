@@ -1,0 +1,6 @@
+open 80397306@10.238.3.56
+cd /Ciclo de receita/_AILTON
+option transfer binary
+get "%1%" C:\tmp
+close
+exit

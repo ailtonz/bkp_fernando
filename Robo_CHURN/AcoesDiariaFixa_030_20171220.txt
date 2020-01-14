@@ -1,0 +1,7 @@
+  Cod.   Eventos                 Dias        Qtde              Valor            Data Processamento 
+  001    TELE AVISO                15             17               10.859,13    2017-12-20 
+  003    DESLIGUE PARCIAL          34            413               40.083,68    2017-12-20 
+  004    DESLIGUE TOTAL            64             42                3.022,12    2017-12-20 
+  006    RELIGUE                    0          1.139              903.606,95    2017-12-20 
+  008    TELE AVISO                45             97              114.835,48    2017-12-20 
+  009    MALA DIRETA               52            202               46.975,95    2017-12-20 

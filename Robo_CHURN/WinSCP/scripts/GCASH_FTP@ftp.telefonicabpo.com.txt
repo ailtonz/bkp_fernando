@@ -1,0 +1,8 @@
+ftps://ftp.telefonicabpo.com
+porta: 990
+
+Ip Azure
+172.21.30.8
+
+Usuário: GCASH_FTP
+Senha: 2Uku*?gu48th#Vut

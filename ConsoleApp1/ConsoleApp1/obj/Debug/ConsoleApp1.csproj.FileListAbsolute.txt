@@ -1,0 +1,12 @@
+C:\Users\aguinaldo.silva\Source\Repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\aguinaldo.silva\Source\Repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\aguinaldo.silva\Source\Repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\aguinaldo.silva\Source\Repos\ConsoleApp1\ConsoleApp1\bin\Debug\WebDriver.dll
+C:\Users\aguinaldo.silva\Source\Repos\ConsoleApp1\ConsoleApp1\bin\Debug\WebDriver.Support.dll
+C:\Users\aguinaldo.silva\Source\Repos\ConsoleApp1\ConsoleApp1\bin\Debug\WebDriver.xml
+C:\Users\aguinaldo.silva\Source\Repos\ConsoleApp1\ConsoleApp1\bin\Debug\WebDriver.Support.xml
+C:\Users\aguinaldo.silva\Source\Repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\aguinaldo.silva\Source\Repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\aguinaldo.silva\Source\Repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\aguinaldo.silva\Source\Repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\aguinaldo.silva\Source\Repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

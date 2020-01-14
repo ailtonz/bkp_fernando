@@ -1,0 +1,9 @@
+80318624
+>>> Julia@12
+Julia@13
+
+1. Print da tela
+2. Percorrer o Jason par selecionar a conta certa
+
+3.Criar a logica para identificar o numero da conta da planilha dentro dos dados do Json
+Selecionar o numero da conta identificada no grid 
